@@ -55,7 +55,8 @@ namespace Microsoft.BotBuilderSamples
             var results = await _botServices.SampleQnA.GetAnswersAsync(turnContext);
             if (results.Any())
             {
-                if(turnContext.Activity.Text == "ElasticSearch")
+                if(turnContext.Activity.Text != "None" && turnContext.Activity.Text != "Assistance" && turnContext.Activity.Text != "Resolved" &&
+                    turnContext.Activity.Text != "Hello")
                 {
                     var reply = MessageFactory.Text(results.First().Answer);
                     reply.SuggestedActions = new SuggestedActions()

@@ -7422,11 +7422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\NLP-With-Dispatch-Bot.csproj",
+      "projectUniqueName": "C:\\source\\IssueResolvingChatbot\\NLP-With-Dispatch-Bot.csproj",
       "projectName": "NLP-With-Dispatch-Bot",
-      "projectPath": "C:\\source\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\NLP-With-Dispatch-Bot.csproj",
+      "projectPath": "C:\\source\\IssueResolvingChatbot\\NLP-With-Dispatch-Bot.csproj",
       "packagesPath": "C:\\Users\\Ashish Kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\BotBuilder-Samples\\samples\\csharp_dotnetcore\\14.nlp-with-dispatch\\obj\\",
+      "outputPath": "C:\\source\\IssueResolvingChatbot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
