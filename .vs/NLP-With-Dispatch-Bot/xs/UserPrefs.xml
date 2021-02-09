@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{87A92AF8-AAF0-40E0-B269-74257A01A6A5}|DispatcherBot">
+  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+    <Files>
+      <File FileName="Bots/DispatchBot.cs" Line="53" Column="10" />
+      <File FileName="Program.cs" Line="18" Column="37" />
+      <File FileName="appsettings.json" Line="8" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NLP-With-Dispatch-Bot" expanded="True">
+            <Node name="NLP-With-Dispatch-Bot" expanded="True">
+              <Node name="Bots" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NLP-With-Dispatch-Bot PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>

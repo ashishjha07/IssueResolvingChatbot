@@ -7416,34 +7416,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ashish Kumar\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/ashishkumar/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\IssueResolvingChatbot\\NLP-With-Dispatch-Bot.csproj",
+      "projectUniqueName": "/Users/ashishkumar/Documents/GitHub/IssueResolvingChatbot/NLP-With-Dispatch-Bot.csproj",
       "projectName": "NLP-With-Dispatch-Bot",
-      "projectPath": "C:\\source\\IssueResolvingChatbot\\NLP-With-Dispatch-Bot.csproj",
-      "packagesPath": "C:\\Users\\Ashish Kumar\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\IssueResolvingChatbot\\obj\\",
+      "projectPath": "/Users/ashishkumar/Documents/GitHub/IssueResolvingChatbot/NLP-With-Dispatch-Bot.csproj",
+      "packagesPath": "/Users/ashishkumar/.nuget/packages/",
+      "outputPath": "/Users/ashishkumar/Documents/GitHub/IssueResolvingChatbot/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ashish Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ashishkumar/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -7455,6 +7454,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
             "target": "Package",
@@ -7483,12 +7483,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -7497,7 +7491,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }
